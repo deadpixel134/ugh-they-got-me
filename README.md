@@ -33,7 +33,7 @@ https://www.autohotkey.com/
 https://github.com/deadpixel134/ugh-they-got-me/releases
 <br/>여기서 zip파일을 다운받고 원하는 위치에 압축을 푼 뒤 '맵 리세마라 매크로.ahk'파일 실행
 <br/><br/>
-처음 시작할때에는 데아빌을 실행한 메인화면에서 시작해주세요. (F1 또는 CTRL+F1)
+처음 시작할때에는 데아빌을 실행한 메인화면에서 시작해주세요. (F1 또는 CTRL+F1, CTRL+F3 공통 적용)
 <br/><br/>
 <br/><br/>
 단축키:
